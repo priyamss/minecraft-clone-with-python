@@ -1,0 +1,4 @@
+venv/
+.idea/
+clone.py
+main.js
